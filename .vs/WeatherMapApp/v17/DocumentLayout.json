@@ -1,0 +1,40 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\303\\Documents\\GitHub\\WeatherMapApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27391991-72DE-49D1-BDA8-A3BA29FE795A}|WeatherMapApp\\WeatherMapApp.csproj|c:\\users\\303\\documents\\github\\weathermapapp\\weathermapapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27391991-72DE-49D1-BDA8-A3BA29FE795A}|WeatherMapApp\\WeatherMapApp.csproj|solutionrelative:weathermapapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\303\\Documents\\GitHub\\WeatherMapApp\\WeatherMapApp\\Form1.cs",
+              "RelativeDocumentMoniker": "WeatherMapApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\303\\Documents\\GitHub\\WeatherMapApp\\WeatherMapApp\\Form1.cs [Design]",
+              "RelativeToolTip": "WeatherMapApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-18T09:52:07.624Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
