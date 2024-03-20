@@ -20,3 +20,14 @@ C:\Users\303\source\repos\WeatherMapApp\WeatherMapApp\obj\Debug\WeatherMapApp.cs
 C:\Users\303\source\repos\WeatherMapApp\WeatherMapApp\obj\Debug\WeatherMapApp.csproj.CoreCompileInputs.cache
 C:\Users\303\source\repos\WeatherMapApp\WeatherMapApp\obj\Debug\WeatherMapApp.exe
 C:\Users\303\source\repos\WeatherMapApp\WeatherMapApp\obj\Debug\WeatherMapApp.pdb
+C:\Users\Alp\Documents\GitHub\WeatherMapApp\WeatherMapApp\bin\Debug\WeatherMapApp.exe.config
+C:\Users\Alp\Documents\GitHub\WeatherMapApp\WeatherMapApp\bin\Debug\WeatherMapApp.exe
+C:\Users\Alp\Documents\GitHub\WeatherMapApp\WeatherMapApp\bin\Debug\WeatherMapApp.pdb
+C:\Users\Alp\Documents\GitHub\WeatherMapApp\WeatherMapApp\obj\Debug\WeatherMapApp.csproj.AssemblyReference.cache
+C:\Users\Alp\Documents\GitHub\WeatherMapApp\WeatherMapApp\obj\Debug\WeatherMapApp.Form1.resources
+C:\Users\Alp\Documents\GitHub\WeatherMapApp\WeatherMapApp\obj\Debug\WeatherMapApp.HourlyControl.resources
+C:\Users\Alp\Documents\GitHub\WeatherMapApp\WeatherMapApp\obj\Debug\WeatherMapApp.Properties.Resources.resources
+C:\Users\Alp\Documents\GitHub\WeatherMapApp\WeatherMapApp\obj\Debug\WeatherMapApp.csproj.GenerateResource.cache
+C:\Users\Alp\Documents\GitHub\WeatherMapApp\WeatherMapApp\obj\Debug\WeatherMapApp.csproj.CoreCompileInputs.cache
+C:\Users\Alp\Documents\GitHub\WeatherMapApp\WeatherMapApp\obj\Debug\WeatherMapApp.exe
+C:\Users\Alp\Documents\GitHub\WeatherMapApp\WeatherMapApp\obj\Debug\WeatherMapApp.pdb
